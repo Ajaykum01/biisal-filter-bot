@@ -220,10 +220,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/+jARGKkERm1RlNDU1">{file_name}
+    CAPTION = """<b><a href="https://t.me/filetolink_leo_bot">{file_name}
 
 sɪᴢᴇ : {file_size}
-Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ</a></b>"""
+Use https://t.me/filetolink_leo_bot bot For Fast Download + Online stream.How To Use File2link Bot video 👉 https://t.me/kpslinkteam/49</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
